@@ -4,18 +4,18 @@
         "NetworkName": "",
         "Wallets": [
             {
-                "Name": "Wallet1",
-                "Stake": 50,
+                "Name": "novendi",
+                "Stake": 60,
                 "Online": true
             },
             {
                 "Name": "Wallet2",
-                "Stake": 40,
+                "Stake": 50,
                 "Online": true
             },
             {
                 "Name": "Wallet3",
-                "Stake": 10,
+                "Stake": 20,
                 "Online": false
             }
         ]
@@ -36,11 +36,11 @@
             "Wallets": [
                 {
                     "Name": "Wallet2",
-                    "ParticipationOnly": false
+                    "ParticipationpOnly": true
                 },
                 {
                     "Name": "Wallet3",
-                    "ParticipationOnly": false
+                    "ParticipationOnly": true
                 }
             ]
         }
